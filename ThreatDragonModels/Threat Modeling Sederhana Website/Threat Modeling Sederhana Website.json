@@ -3,14 +3,34 @@
   "summary": {
     "title": "Threat Modeling Sederhana Website",
     "owner": "Sandi",
-    "description": "",
+    "description": "sistem pengaman",
     "id": 0
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
-    "diagramTop": 0,
-    "reviewer": "-",
+    "contributors": [
+      {
+        "name": "wimba"
+      },
+      {
+        "name": "Irfan"
+      },
+      {
+        "name": "Abim"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 1,
+        "title": "Threat Model ",
+        "diagramType": "Generic",
+        "placeholder": "New generic diagram description",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "version": "2.5.0",
+        "cells": []
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "orang",
     "threatTop": 0
   }
 }
